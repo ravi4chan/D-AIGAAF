@@ -282,31 +282,39 @@ The repository is organised into numbered modules representing the major compone
 The numbering provides stable navigation and does not imply that the modules are executed sequentially. Many modules operate across the AI lifecycle and are cross-cutting in nature.
 
 ```text
-00_Framework/
-01_Strategy_and_Governance/
-02_Mission_and_Use_Case/
-03_Risk_and_Autonomy/
-04_AI_Lifecycle/
-05_Data_and_Information/
-06_AI_Security/
-07_Supply_Chain_and_Sovereignty/
-08_Human_Authority/
-09_TEVV/
-10_Operational_Environment/
-11_Operational_Authorisation/
-12_Operational_Employment/
-13_Continuous_Assurance/
-14_Incident_and_FailSafe/
-15_Change_and_Reauthorisation/
-16_Audit_and_Evidence/
-17_Workforce/
-18_Maturity_Model/
-19_Crosswalks/
-20_Templates/
-21_Legal_and_Policy/
-22_Acquisition_and_Procurement/
-23_Interoperability_and_Coalition/
-24_Architecture_and_Technical_Controls/
-25_Documentation_and_Knowledge/
-26_Retirement_and_Decommissioning/
-27_Implementation/
+D-AIGAAF
+│
+├── 00 Framework
+│   ├── Reference Model
+│   ├── Principles
+│   ├── Terminology
+│   ├── Lifecycle
+│   └── Golden Thread
+│
+├── 01 Strategy & Governance
+├── 02 Mission & Use Case
+├── 03 Risk & Autonomy
+├── 04 AI Lifecycle
+├── 05 Data & Information
+├── 06 AI Security
+├── 07 Supply Chain & Sovereignty
+├── 08 Human Authority
+├── 09 TEVV
+├── 10 Operational Environment
+├── 11 Operational Authorisation
+├── 12 Operational Employment
+├── 13 Continuous Assurance
+├── 14 Incident & Fail-Safe
+├── 15 Change & Reauthorisation
+├── 16 Audit & Evidence
+├── 17 Workforce
+├── 18 Maturity Model
+├── 19 Crosswalks
+├── 20 Templates
+├── 21 Legal & Policy
+├── 22 Acquisition & Procurement
+├── 23 Interoperability & Coalition
+├── 24 Architecture & Technical Controls
+├── 25 Documentation & Knowledge
+├── 26 Retirement & Decommissioning
+└── 27 Implementation

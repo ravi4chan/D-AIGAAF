@@ -240,7 +240,6 @@ Authorisation for one mission or configuration must not automatically be assumed
 
 The D-AIGAAF lifecycle is:
 
-```text
 Strategic Need
       ↓
 Mission Need
@@ -275,8 +274,14 @@ Reauthorisation
       ↓
 Retirement
 
-## Repository Structure
+___
+## 11. Repository Structure
 
+The repository is organised into numbered modules representing the major components of D-AIGAAF.
+
+The numbering provides stable navigation and does not imply that the modules are executed sequentially. Many modules operate across the AI lifecycle and are cross-cutting in nature.
+
+```text
 00_Framework/
 01_Strategy_and_Governance/
 02_Mission_and_Use_Case/

@@ -1,4 +1,4 @@
-## 01 — Maturity Dimensions and Domains
+# 01 — Maturity Dimensions and Domains
 
 ### 1. Purpose
 
